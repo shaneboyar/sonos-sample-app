@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "sample-app",
+    "slug": "sample-app",
+    "sdkVersion": "52.0.0",
+    "platforms": ["ios", "android"]
+  }
+}
